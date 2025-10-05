@@ -1,0 +1,1 @@
+{"name":"mp","type":"module","scripts":{"start":"node server.js"},"dependencies":{"express":"^4","cors":"^2","axios":"^1","dotenv":"^16"}}
